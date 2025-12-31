@@ -11,5 +11,5 @@ DOMAIN-SUFFIX,mjji.de
 DOMAIN-SUFFIX,rou.video
 DOMAIN-SUFFIX,feiniu.lol
 DOMAIN-SUFFIX,liminalnet.com
-DOMAIN,e.beupisp.com
+URL-REGEX,^http://e\.beupisp\.com:8080/Users/AuthenticateByName
 DOMAIN-SUFFIX,beupisp.com
